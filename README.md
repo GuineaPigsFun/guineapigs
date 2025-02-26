@@ -1,6 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Introduction
+
+Guinea Pigs is here to put NFT assets in every pocket as easily as memecoins.
+
+NFTs are in their dip nowadays, although the reasons vary, we can still identify some key points.
+
+First, people are focusing on memecoins, so other assets, including NFTs, are being drained.
+
+Second, the lack of liquidity in NFTs has pushed traders away as it's hard to sell quickly, which is a disaster for crypto traders given the high volatility of the crypto market. It's crucial for crypto traders to be easy-in and easy-out. On the other hand, as art collectionmmhjn b 'b'h;'jk'
+kl '' s, the current quantity of NFT collections has far exceeded the market's capacity.
+
+Guinea Pigs has found a way to solve these problems. Fragmentary NFT is our ultimate solution for reinventing NFTs. For example, if Guinea Pigs is a 10K collection, we cut each NFT into 10,000 fragments, making the whole collection 100,000,000 fragments. Each fragment is bound to one token. We can trade these either as tokens or fragments. Once you collect all 10,000 fragments from a single NFT, it can be minted. You can literally see the fragments you've collected assembled into one picture. The trading process is also a process of assembling your NFT. You can keep the minted NFT in your profile or trade it on any NFT market; you can also burn it to get your tokens back.
+
+Guinea Pigs is a collection that will showcase how this works, and then we will launch our NFT platform where everyone can launch their NFT collection and pump it as easily as you do memecoins on Pump.fun.you
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 First, run the development server:
 
